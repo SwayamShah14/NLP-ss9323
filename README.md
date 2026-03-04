@@ -26,7 +26,7 @@ Two motivated deviations from the RoBERTa-base baseline (F1=0.48):
 ├── test.txt                   # Test set predictions
 ```
 
-**NOTE**: _Models are not committed due to being nearly 1GB in size. These models can be trained on running the Jupyter Notebook in BestModel/pcl_detection_nb.ipynb. They can also be found on [Google Drive]{https://drive.google.com/drive/folders/178rdwKf4volLcjlIyCXqDbtKlMj5gI-8?usp=sharing}_
+**NOTE**: _Models are not committed due to being nearly 1GB in size. These models can be trained on running the Jupyter Notebook in BestModel/pcl_detection_nb.ipynb. They can also be found on [Google Drive](https://drive.google.com/drive/folders/178rdwKf4volLcjlIyCXqDbtKlMj5gI-8?usp=sharing)_
 
 
 ---
