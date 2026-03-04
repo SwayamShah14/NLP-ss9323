@@ -2,7 +2,6 @@
 
 Binary classification of Patronising and Condescending Language (PCL) in English news paragraphs.
 
-**GitHub Repository:** https://github.com/SwayamShah14/NLP-ss9323
 **Leaderboard Name:** swam14
 
 ---
