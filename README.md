@@ -31,16 +31,19 @@ Two motivated deviations from the RoBERTa-base baseline (F1=0.48):
 
 ---
 
-## Running the Notebook
+## Notebook Structure
 
-### Google Colab (recommended)
-1. Open `BestModel/pcl_detection.ipynb` in [Google Colab](https://colab.research.google.com/)
-2. Set runtime to **GPU** (Runtime → Change runtime type → T4 GPU)
-3. Run all cells in order (Runtime → Run all)
+tl;dr parts 3-5 consist of code for the novel model.
 
-### Local
-1. Install dependencies: `pip install transformers datasets accelerate torch`
-2. Run: `jupyter notebook BestModel/pcl_detection.ipynb`
+The notebook is structured as follows:
+- Part 1: Setup
+- Part 2: EDA
+- Part 3: Setup of model components
+- Part 4: Novel model training
+- Part 5: Threshold tuning
+- Part 6: Ablation study
+- Part 7: Evaluation and error analysis
+- Part 8: Creating prediction textfiles
 
 ---
 
